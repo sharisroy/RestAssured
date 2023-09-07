@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87a62641-3ccf-4bb9-a21a-44564ed39ce8" name="Changes" comment="Create First Test Case">
+    <list default="true" id="87a62641-3ccf-4bb9-a21a-44564ed39ce8" name="Changes" comment="Create First Test Case BDD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -139,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694106005147</updated>
-      <workItem from="1694106007307" duration="2421000" />
+      <workItem from="1694106007307" duration="3038000" />
     </task>
     <task id="LOCAL-00001" summary="Create First Test Case">
       <option name="closed" value="true" />
@@ -149,7 +150,31 @@
       <option name="project" value="LOCAL" />
       <updated>1694107955974</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create First Test Case">
+      <option name="closed" value="true" />
+      <created>1694108446496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694108446496</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create First Test Case BDD">
+      <option name="closed" value="true" />
+      <created>1694108633259</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694108633259</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create First Test Case BDD">
+      <option name="closed" value="true" />
+      <created>1694108643683</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694108643683</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +185,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -168,7 +205,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create First Test Case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create First Test Case" />
+    <MESSAGE value="Create First Test Case BDD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create First Test Case BDD" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
